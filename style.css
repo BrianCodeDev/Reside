@@ -1,0 +1,153 @@
+.navbar .container .navbar-brand {
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.collapse .navbar-nav .nav-item .nav-link {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.d-flex button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 180px;
+  font-size: 18px;
+  color: white;
+  background-color: #181818;
+  border: none;
+  border-radius: 5px;
+}
+
+.header-display {
+  background: linear-gradient(rgba(0, 0, 0, 0.707), rgba(0, 0, 0, 0.645)), url("img/photo-montage-rendering-finalized.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+}
+
+.header-display .row .col {
+  text-align: left;
+}
+
+.header-display .row .col form {
+  background-color: #181818;
+  height: 480px;
+  width: 400px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.header-display .row .col form input {
+  background-color: rgba(227, 227, 227, 0.6823529412);
+  border: none;
+}
+
+.header-display .row .col form textarea {
+  background-color: rgba(227, 227, 227, 0.6823529412);
+  border: none;
+}
+
+.header-display .row .col form input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: inherit; /* You can set this to a specific color if needed */
+}
+
+.header-display .row .col form textarea:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: inherit; /* You can set this to a specific color if needed */
+}
+
+.header-details h2 {
+  color: white;
+  padding-top: 120px;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.header-details p {
+  color: #F2F2F2;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.header-display .form-title {
+  text-align: center;
+}
+
+.header-display .row .col form .messages {
+  max-height: 80px;
+  min-height: 80px;
+}
+
+.submit-center {
+  text-align: center;
+}
+
+.submit-center button {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #181A46;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.header-details .properties-button {
+  width: 40%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #242222;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+
+.header-details .properties-button:hover {
+  width: 40%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #333131;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+
+.submit-center button:hover {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #1d2161;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.form-title h2 {
+  font-size: 20px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.form-title h3 {
+  font-size: 15px;
+  color: white;
+  padding-top: 5px;
+  margin-top: 0;
+}
+
+.about h2 {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 50px;
+  color: black;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
